@@ -1,0 +1,10 @@
+[
+    { "title": "Github", "link": "https://github.com/egeozcan" },
+    { "title": "Twitter", "link": "https://twitter.com/yavuzegeozcan" },
+    { "title": "Blog", "link": "/blog" },
+    {
+        "title": "Email",
+        "link": "http://www.google.com/recaptcha/mailhide/d?k=01GiTEpxdN9AmCFuj1S3hsVA==&c=WH-hmZFCaxjwPi_3i5ScUYBcM29Y9Q9cUM9MWeKlN84=",
+        "id": "email-link"
+    }
+]

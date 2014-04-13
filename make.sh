@@ -1,0 +1,1 @@
+jstatico "./src" "./output"

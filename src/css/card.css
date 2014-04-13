@@ -1,0 +1,134 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 90%;
+    margin: 0;
+}
+
+body {
+    background: #fafafa;
+    height: 100%;
+    font-size: 25px;
+}
+
+#wrapper {
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-content: center;
+    -ms-flex-line-pack: center;
+    align-content: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 100%;
+}
+
+.container {
+    background-color: #45b2d8;
+    color: #ffffff;
+    width: 75%;
+    border-radius: 20px;
+    position: relative;
+    margin: 10px auto 30px;
+
+    align-self: center;
+    -webkit-order: 0;
+    -ms-flex-order: 0;
+    order: 0;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-align-self: auto;
+    -ms-flex-item-align: auto;
+    align-self: auto;
+}
+
+article p, footer p {
+    padding: 0px 20px;
+    display: block;
+}
+
+ul {
+    margin-top: 0px;
+    padding-left: 40px;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: right;
+    font-size: 0.4em;
+    color: #888;
+    position: absolute;
+    bottom: -20px;
+    right: 20px;
+}
+
+header {
+    background-color: #fafafa;
+    color: #333;
+    margin: 0;
+    width: 100%;
+}
+
+h1, h2 {
+    margin: 0;
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+nav {
+    position: absolute;
+    top: 29px;
+    right: -1px;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 1px;
+    float: right;
+    opacity: 0.6;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+
+nav ul li:hover {
+    opacity: 1;
+}
+
+nav ul li a {
+    display: block;
+    font-size: 0.7em;
+    background: #45b2d8;
+    padding: 5px 10px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+aside {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 0.6em;
+}

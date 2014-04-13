@@ -1,0 +1,8 @@
+{
+  "name": "egeozcan.com",
+  "description": "source for egeozcan.com, uses jstatico",
+  "author": "Yavuz Ege Özcan <egecan@gmail.com>",
+  "dependencies": {
+    "jstatico": "0.0.1"
+  }
+}
