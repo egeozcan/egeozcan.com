@@ -11,6 +11,10 @@ body > h1 {
 	text-align: center;
 }
 
+body > h1 > a {
+	text-decoration: none;
+}
+
 body > h1 small {
 	display: block;
 	font-size: 0.4em;
