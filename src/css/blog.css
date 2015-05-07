@@ -81,13 +81,13 @@ nav li a.page-link {
 	box-shadow: 2px 2px #ddd;
 }
 
-pre {
+article > pre {
 	padding: 31px;
 	background: #fafafa;
 	border-radius: 17px;
 }
 
-pre code {
+article > pre code {
 	font-size: 13px;
 	padding: 0px;
 }
