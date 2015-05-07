@@ -7,4 +7,4 @@ cleanurl: true
 description: "Yavuz Ege Özcan'ın kişisel web sayfası"
 ---
 
-Ben Ege. Stuttgart yakınlarında yaşayan bir yazılım geliştiriciyim.
+Ben Ege. Stuttgart yakınlarında yaşayan bir yazılım uzmanıyım.
