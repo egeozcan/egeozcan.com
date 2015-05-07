@@ -106,3 +106,7 @@ th, td {
 tbody tr:nth-child(odd) {
 	background-color:#fafafa;
 }
+
+p {
+  line-height: 1.4em;
+}
