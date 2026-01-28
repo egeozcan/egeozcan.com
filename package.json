@@ -7,6 +7,6 @@
     "build": "jstatico ./src ./output"
   },
   "dependencies": {
-    "jstatico": "file:../jstatico"
+    "jstatico": "^1.1.0"
   }
 }
