@@ -2,7 +2,11 @@
   "name": "egeozcan.com",
   "description": "source for egeozcan.com, uses jstatico",
   "author": "Yavuz Ege Özcan <egecan@gmail.com>",
+  "type": "module",
+  "scripts": {
+    "build": "jstatico ./src ./output"
+  },
   "dependencies": {
-    "jstatico": "0.0.1"
+    "jstatico": "file:../jstatico"
   }
 }

@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/egeozcan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://egeozcan.com
+  * I am egeozcan (https://keybase.io/egeozcan) on keybase.
+  * I have a public key with fingerprint B7D3 8012 A7FB B92F B91E  4DB0 CE52 5F56 D0B5 C80A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015ea3e06481b28109fd4bd57c5e28b01b06dab0f8277149d145258750bb0ec66e0a",
+            "fingerprint": "b7d38012a7fbb92fb91e4db0ce525f56d0b5c80a",
+            "host": "keybase.io",
+            "key_id": "ce525f56d0b5c80a",
+            "kid": "01015ea3e06481b28109fd4bd57c5e28b01b06dab0f8277149d145258750bb0ec66e0a",
+            "uid": "b5a7d92d09b15a6ee5aa54dca5d53819",
+            "username": "egeozcan"
+        },
+        "service": {
+            "hostname": "egeozcan.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454933999,
+    "expire_in": 157680000,
+    "prev": "9ccac4561252096a1ae5b0a750fd5fcb8c434c2da864a7fd057d78c68f060eb9",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBRRGF61DLcig8ropRqiq9WZ2TlzWayUCowofAij63pusw66M+vs
+apltN+xCqUl3pRCtwJKSEMoitBv5kOZDkpKmSGB3gohuJHVG6iV67Lwczn++7zvf
+95//wfgEjzcuc/PYy8E+mhX36O7pQk9288EPJQK2abHgLxHy2MjG8imLRAN5JhX8
+AhCBCBnyMaDImoglTQS6QWVMoUogkzQMRAwUijAwNElVRVmnogwlqKkQYAwYURQG
+kJAqGKYVZE7YMa0ol8Uq9WlAlJBqYKxLBtZFJlMMCONcAyoUYEi0EWKuHXEZ3BxG
+EbbItHmNHwIj9v6B/8++C0fkMEQq1SUKdCxCpDAGEYIyJQhS6NNE3QVGmGOhEONo
+FmT2DoIsIZYq8GqRSZjbWDfJX4hFxA5xbtixozax8/lNbjQajvhdZrQ47EK3MRz4
+LRLApkV5HzmjiDkR07YEv8iRJGq6qjyArPt8uq6nCmx72HRYwHQRUFU0wJf7Divi
+kjohiMhQESUoAV1BImIQA8SjGxQaBGtE9slEokhTZP5DFECVqhpRNAMogGE3bYQV
+WLbgh9wmCnLJiBm0ULTQYULs3p3NozxxXk/i6Hh3vjzepOQ/U3f7ypif6cNLaaXZ
+OWfLfqdu5Zz7RwLVsSWnvpdnFixP6drb1FfWV7ukpSd/mnoia3X/8K20pq6P3woH
+Dr/pDmUsWDqx+2lORvhtGarZsNuZ3lo52PANzkzf1WRX9x5N6/1Uu+xr4tS2Z3BN
+6Vn9xY93L1ecvLHw67HO2fuHyhsbKi7NWt++68KLjNSajdffNrYOHlg30D/uTPrz
+eRW+nt6Lx8+9vzBhd2nyh8ah5KtD8ULppLlJO+vXxoJ7Pm7qSDkxqc6CR6dtbaia
+Ly5ozpgx+cux8/t2nPQmxJZn93V/PrPYzonruDjFCqXUqyVPEtNuVrY/rDpyrX7r
+ilevtZvBGm36oVUvW9rYYyf+F/eSR/Q=
+=u/Ox
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/egeozcan
+
+==================================================================
